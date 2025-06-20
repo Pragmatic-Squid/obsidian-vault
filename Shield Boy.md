@@ -1,0 +1,1 @@
+Junge, der magischen Schild finden. Schild reflektiert Schwerthiebe und Projektile, ist aber so schwer, dass er den Schild nur kurz hochhalten kann und danach verschnaufen muss.

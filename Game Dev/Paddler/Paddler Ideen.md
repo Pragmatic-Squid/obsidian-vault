@@ -1,0 +1,2 @@
+- Breakout Clone, aber anstatt Blöcke gibt es Gegner 
+- Mischung aus Space Invaders und Breakout

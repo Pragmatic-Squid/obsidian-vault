@@ -1,0 +1,2 @@
+- [ ] Anwalt bzgl. Insolvenz schreiben 
+- [ ] 
